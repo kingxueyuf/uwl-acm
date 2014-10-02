@@ -1,4 +1,4 @@
-package contest_practice_3;
+package contest_p_3;
 
 import java.util.Scanner;
 

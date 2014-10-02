@@ -1,4 +1,4 @@
-package contest_practice_3;
+package contest_p_2;
 
 import java.util.ArrayList;
 import java.util.Scanner;
